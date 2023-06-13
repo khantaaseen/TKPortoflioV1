@@ -5,10 +5,6 @@ let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
 
 
-menuIcon.onclick
-
-
-
 const typed = new Typed('.multiple-text', {
     strings: ['Fullstack Developer', 'Frontend Developer', 'Backend Developer', 'Software Engineer'],
     typeSpeed: 50,
