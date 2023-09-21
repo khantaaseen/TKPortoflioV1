@@ -248,7 +248,7 @@ span{
 #js-icon:hover,
 #html-icon:hover,
 #css-icon:hover,
-#bootstrap-icon,
+#bootstrap-icon:hover,
 #react-icon:hover {
     transform: scale(1);
     font-size: 70px;
